@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+form{
+	width:400px;
+	margin:auto;
+	margin-left:-15px;
+}
+
+input{
+	font-family:sans-serif;
+	font-weight:normal;
+	font-size:13pt;
+}
+
+input:hover{
+	background:rgba(250,244,200,0.9);
+}
+
+legend{
+	color:black;
+}
+
+input, textarea{
+	font-family:sans-serif;
+	font-weight:normal;
+	font-size:13pt;
+	background-color:rgba(244,244,197,0.9);
+	
+}
+
+fieldset{
+	border-color:gray;
+	margin:20px;
+	background:url("../_imagens/rural.jpg") no-repeat 95%;
+	opacity:0.8;
+
+}
