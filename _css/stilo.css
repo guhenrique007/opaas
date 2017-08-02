@@ -222,6 +222,13 @@ footer#rodape a:hover{
 	color:blue;
 }
 
+a#link2:hover{
+	color:blue;
+}
+
+
+
+
 /*RESPONSIVANDO mobile <breakpoints>*/
 @media screen and (max-width:480px){
 	#banner{width:300%;}
